@@ -1,0 +1,1 @@
+var myTwitchSubscriptions = [["Kathy", 4], ["Penguinz", 24], ["LionAges", 22], ["Boahs", 92], ["Poopbutt101", 420]]; //Twitch subscriptions + active months I've subbed within a multi-dimension array containing a several sub-arrays
