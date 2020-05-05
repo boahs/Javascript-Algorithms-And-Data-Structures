@@ -15,7 +15,7 @@
 - Real world projects 
 
 
-```
+```javascript
 x = expectation;
 
 energy = 100;
