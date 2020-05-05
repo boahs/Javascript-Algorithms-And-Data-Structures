@@ -14,6 +14,8 @@
 - intermediate algorithm scripting challenges/solutions
 - Real world projects 
 
+
+```
 x = expectation;
 
 energy = 100;
@@ -28,4 +30,4 @@ todayIwill() {
     do(career);
     do(anythingElse);
 }
-
+```
