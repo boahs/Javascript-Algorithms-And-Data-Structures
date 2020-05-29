@@ -4,7 +4,10 @@ function phoneticLookup(val) {
     let lookup = {
       "alpha": "Adams",
       "bravo": "Boston",
-
+      "charlie": "Chicago",
+      "delta": "Denver
+    
+  
     }
   var result = lookup[val];
     return result;
