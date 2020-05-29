@@ -5,7 +5,8 @@ function phoneticLookup(val) {
       "alpha": "Adams",
       "bravo": "Boston",
       "charlie": "Chicago",
-      "delta": "Denver
+      "delta": "Denver",
+
     
   
     }
