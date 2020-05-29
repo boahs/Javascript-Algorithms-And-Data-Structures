@@ -8,7 +8,11 @@ function phoneticLookup(val) {
       "delta": "Denver",
       "echo": "Easy",
       "foxtrot": "Frank"
-    
   
- 
+    }
+  var result = lookup[val];
+    return result;
+  }
+  
+  phoneticLookup("charlie");
   
